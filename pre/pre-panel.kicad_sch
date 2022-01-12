@@ -801,11 +801,11 @@
   )
 
   (no_connect (at 89.535 58.42) (uuid 25d0f203-96f1-449f-bd7d-5e118c23331d))
-  (no_connect (at 89.535 96.52) (uuid 25d0f203-96f1-449f-bd7d-5e118c23331e))
+  (no_connect (at 89.535 96.52) (uuid 25d0f203-96f1-449f-bd7d-5e118c23331d))
   (no_connect (at 173.355 83.82) (uuid 3d1fa853-5cef-4db0-a813-ce6897f817a4))
-  (no_connect (at 173.355 45.72) (uuid 3d1fa853-5cef-4db0-a813-ce6897f817a5))
+  (no_connect (at 173.355 45.72) (uuid 3d1fa853-5cef-4db0-a813-ce6897f817a4))
   (no_connect (at 52.07 80.01) (uuid 9385a486-c848-4913-a6a6-6dd0d11d873d))
-  (no_connect (at 50.8 57.15) (uuid 9385a486-c848-4913-a6a6-6dd0d11d873e))
+  (no_connect (at 50.8 57.15) (uuid 9385a486-c848-4913-a6a6-6dd0d11d873d))
 
   (wire (pts (xy 163.195 102.87) (xy 164.465 102.87))
     (stroke (width 0) (type default) (color 0 0 0 0))
